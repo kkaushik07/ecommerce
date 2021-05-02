@@ -1,0 +1,7 @@
+#uploaded pictures for now
+*.jpg
+*.png
+*.jpeg
+
+#node modules folder
+node_modules/
